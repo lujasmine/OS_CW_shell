@@ -1,6 +1,6 @@
 COMP 3005 | Operating Systems Coursework 1: Unix Command Shell
 
-by Jasmine Lu, 14002484
+by Jasmine Lu
 
 TO MAKE: make
 TO CLEAN FILES: make clean
